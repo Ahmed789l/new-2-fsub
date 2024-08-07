@@ -11,15 +11,15 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7099679536:AAHUE618YjDBlnZ2id9zR4kw9T0M4R8w8Hw"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6727550037"
+      "value": "7400335416"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "28525384"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
@@ -27,32 +27,32 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "Cluster00001"
+      "value": "Sama990_bot"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "3a1190585fe5bf1f6324be87ba5b68c6"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1002031978775"
+      "value": "-1001985214229"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-1002111343572"
+      "value": "-1002206485675"
     },
     "FORCE_SUB_CHANNEL2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-1002059817947"
+      "value": "-1002133277451"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "6727550037",
+      "value": "6727550037 5261438298 1418213560 7162615398",
       "required": false
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "",
       "required": false
     }
   },
